@@ -1,0 +1,23 @@
+{
+  "name": "yelpcamp",
+  "version": "1.0.0",
+  "description": "yelpcamp v1",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/citydabble/yelpcamp.git"
+  },
+  "author": "hayden nhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/citydabble/yelpcamp/issues"
+  },
+  "homepage": "https://github.com/citydabble/yelpcamp#readme",
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.3"
+  }
+}

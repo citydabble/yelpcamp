@@ -1,0 +1,9 @@
+<h1> This is the Events Page</h1>
+
+<%= events.forEach(function(event){ %>
+   <div>
+
+      <h4><%= event.name %> </h4>
+      <img src="<% event.image %>">
+   </div>
+<%= }); %>
